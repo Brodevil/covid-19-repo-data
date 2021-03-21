@@ -119,34 +119,5 @@
     "count_pull_requests_reviews": 0,
     "count_comments_on_issues_and_pull_requests": 0
   },
-  {
-    "github_repo_url": "https://github.com/lbj96347/2020-new-coronavirus-live-map",
-    "repo_description": "base on china official news to pop up new coronavirus cases on map.  基于中国官方新闻公布数据，绘制新型冠状病毒案例于地图上。",
-    "topics": null,
-    "owner_repo_name": "lbj96347/2020-new-coronavirus-live-map",
-    "owner_name": "lbj96347",
-    "owner_type": "User",
-    "organization_bio": null,
-    "repo_created_day": "2020-01-20",
-    "primary_language_name": "JavaScript",
-    "license_name": null,
-    "is_github_pages": false,
-    "has_readme": true,
-    "has_wiki": true,
-    "has_merged_prs": false,
-    "has_issues": true,
-    "has_contributor_guide": false,
-    "has_code_of_conduct": false,
-    "count_of_public_forks": 0,
-    "count_of_stars": 0,
-    "count_of_watchers": 0,
-    "count_distinct_contributors": 1,
-    "count_contributions": 2,
-    "count_commits": 2,
-    "count_commit_comments": 0,
-    "count_created_issues": 0,
-    "count_pull_requests_created": 0,
-    "count_pull_requests_reviews": 0,
-    "count_comments_on_issues_and_pull_requests": 0
-  }
+  
 ]
